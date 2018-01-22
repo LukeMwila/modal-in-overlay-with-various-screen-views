@@ -21,7 +21,11 @@ class Modal extends Component {
   }
 
   changeView (chosenView) {
-    let views = UNSET_DEFAULT_VIEWS
+    let views = {
+      'First': false,
+      'Second': false,
+      'Third': false
+    }
     views[chosenView] = !views.chosenView
     this.setState({ views: views })
   }
