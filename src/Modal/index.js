@@ -3,9 +3,6 @@ import ModalContainer from './ModalContainer'
 import ModalButtonContainer from './ModalButtonContainer'
 import ModalNavButton from '../ModalNavButton'
 import ModalView from '../ModalView'
-/*import ViewOne from '../ViewOne'
-import ViewTwo from '../ViewTwo'
-import ViewThree from '../ViewThree'*/
 import {
   FIRST_VIEW,
   SECOND_VIEW,
