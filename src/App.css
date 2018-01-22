@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.hideMe{
+	display: none !important;
+}
+
+.floatLeft{
+	float: left;
+}
+
+.fullWidth{
+	width: 100%;
+}
